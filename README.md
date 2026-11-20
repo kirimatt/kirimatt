@@ -10,11 +10,11 @@
     🎮 Music • Games • Anime • Code
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/kirimatt/kirimatt/master/assets/katana_zero_bike.gif" height="40" />
+[![kirimatt profile views](<img src="https://raw.githubusercontent.com/kirimatt/kirimatt/master/assets/katana_zero_bike.gif" height="40" />)](https://u8views.com/github/kirimatt)
 <br><br><br>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://linkedin.com/in/kirimatt)
 [![](https://img.shields.io/badge/leetcode-yellow)](https://leetcode.com/u/kirimatt322/)
 [![](https://img.shields.io/badge/telegram-white)](https://t.me/kirimatt)
-[![kirimatt profile views](https://u8views.com/api/v1/github/profiles/58257256/views/day-week-month-total-count.svg)](https://u8views.com/github/kirimatt)
+
 </div>
