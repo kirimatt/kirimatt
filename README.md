@@ -10,7 +10,7 @@
     🎮 Music • Games • Anime • Code
 </pre>
 <br><br>
-[![kirimatt profile views](.)](https://u8views.com/github/kirimatt)
+[![.](https://u8views.com/github/kirimatt)
 <img src="https://raw.githubusercontent.com/kirimatt/kirimatt/master/assets/katana_zero_bike.gif" height="40" />
 <br><br><br>
 
