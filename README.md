@@ -10,7 +10,7 @@
     🎮 Music • Games • Anime • Code
 </pre>
 <br><br>
-[![.](https://u8views.com/github/kirimatt)
+<img src="https://u8views.com/api/v1/github/profiles/58257256/views/day-week-month-total-count.svg" width="1" height="1" alt="">
 <img src="https://raw.githubusercontent.com/kirimatt/kirimatt/master/assets/katana_zero_bike.gif" height="40" />
 <br><br><br>
 
